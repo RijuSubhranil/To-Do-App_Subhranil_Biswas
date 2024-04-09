@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color: hotpink;
+}
+h1{
+    text-align: center;
+    text-decoration: underline double;
+}
+#adding_task_btn{
+    background-color: cornflowerblue;
+    height:35px;
+    width:80px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+input{
+    height:30px;
+    width:180px;
+    padding-right:5px;
+}
+#inputs{
+    background-color: linen;
+    height:40px;
+    width:300px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin:auto;
+    border:2px solid black;
+}
+#items_input{
+    background-color: aquamarine;
+    height: auto;
+    width:300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border: 3px solid black;
+}
+
+.list_btn{
+    background-color:darkslategray;
+    color: white;
+    height:30px;
+    width:60px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 5px;
+    border-radius:50%;
+}
